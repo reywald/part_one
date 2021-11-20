@@ -25,4 +25,5 @@ class HomePage(BasePage):
         self.testclass.assertTrue(self.login_button.is_displayed())
 
     def perform_action(self):
-        self.login_button.click()
+        # self.login_button.click()
+        self.driver.get("https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?redirect_uri=https%3A%2F%2Fdevelopers.google.com%2Foauthplayground&prompt=consent&response_type=code&client_id=407408718192.apps.googleusercontent.com&scope=email&access_type=offline&flowName=GeneralOAuthFlow")
