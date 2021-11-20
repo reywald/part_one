@@ -2,6 +2,7 @@ from unittest import TestCase
 from abc import abstractmethod
 from selenium import webdriver
 
+
 class BasePage:
     """ The base page from which other page objects inherit"""
 
@@ -16,7 +17,7 @@ class BasePage:
         the right text content
         """
         pass
-        
+
     @abstractmethod
     def perform_action(self, *args):
         """Perform the page's prescribe action or actions."""
