@@ -1,0 +1,69 @@
+Navigated to http://localhost:3000/
+/accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:3666 XHR finished loading: GET "http://localhost:3000/sockjs-node/info?t=1637422647280".
+AbstractXHRObject._start @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:3666
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:3559
+setTimeout (async)
+AbstractXHRObject @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:3558
+XHRLocalObject @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:3741
+InfoAjax @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:7397
+InfoReceiver._getReceiver @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:7162
+InfoReceiver.doXhr @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:7182
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:7151
+setTimeout (async)
+InfoReceiver @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:7150
+SockJS @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:6136
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:739
+__webpack_require__ @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:555
+fn @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:86
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:588
+__webpack_require__ @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:555
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:578
+(anonymous) @ /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.8YZANHOc7Yc.O/am=AVSKE5AAEACAgAEAAAAAAAAADwYwSMztCQE/d=1/excm=glif_initial_css/rs=ABkqax2NqvgKKDLauzZWq9Osoh-N8lESKA/m=glifb,identifier_view,unknownerror_view:581
+Navigated to https://accounts.google.com/o/oauth2/auth?login_hint=&response_type=code&redirect_uri=https%3A%2F%2Flogin.us.auth0.com%2Flogin%2Fcallback&scope=email%20profile&state=rU2DYHWrZ9s5c38E1Mj8212qxn1Qa5n3&client_id=104565000066-q7q63bouq2ct8gj73drmpu186amn6a3f.apps.googleusercontent.com
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+Navigated to https://accounts.google.com.ng/accounts/SetSID?ssdc=1&sidt=ALWU2ctRjwgpMiqrs7IaO8rimOP/tweJ9QSNXD7wWemN4OfrFk0tQRQSNSQ8ngOiFWzjWB%2B0AwI8zowF/G9klN6X3obUlwuGjhOPnA6N60KARGDXS9IeK72fqVlFKyNRFVTtRr%2Bo7hLLKcOum3Q%2BX7xz/MO//OE%2BfHw0n0HSBlBS1/FUy8qWkPIjN8ahlbsWS3MdEfYECAuCrF%2BoDiQd6IB4kPNBh5hEK2rOwIjkF3yUyv/x0Dkqanvi0Mzm6HgrtkFZsW44Ap%2B6%2BUCkNpm461JgbgpZVBrYoft69ZW38iHCDUQZaoq6T2AVHf5r7/7oGSMssmfVQKweW1/3dtSy8nWJPWVBTlYkJlESVlQ9P3%2Bn1RDpJzS3nrGW9ykFhylSKizgzdCU08opqbQGRY7OC7YtZuZKsfBtmvYBND1erA1aygRZspGZZVd6NsmMVxafDfu4GtIjDXEJgpf1iTbSiIAFvgaYvTRxTtrXoepm2TdwAGAk0Z5tOhs%3D&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hANQ-xvtxhESMn9BjgVUQx-mB39PG0FbnOsJLfCJNVfsQ7nCa3MN7pPZSEK7XfmW1scE97fdQD_wg3yzh8F4WF_bN-zap8KsKtsQ7SgueYkqzgRef5ObJ6VC9YYs7tWhcUrOqvkPgjfyiJshZGf1yPQouCJJeiE2TqhwPJ8dbSqn44GJIameLxhqsOc5WHkMURcHU0i5F5SCKh014zxZrrpzaMPIc4I2rCzqEPXVT8xL0v1noGeRPvrORtldeM9jIGCKbcOo05H6cNToMZjkr3PUCxnRW_Cr16-ettoSV-qSbvBsKgUNSwCEcSkyjFo5ZydVvI2s_sMWt-WlCX2YkKysH0jfLCw_yd6dGYTu6mIZ-qCqmO2dnmZxv5otjpzsKUnKlwL7tc-gr1fbGW-rE8mjp1f9igd526OlJ-YAYBoH0TCuCuHyMkeEg1nK3Qo238_62aMpJ04T18FeRec4z-rV_x8wEA%26as%3DS-1342139847%253A1637422650819228%26rapt%3DAEjHL4O5XMg9ZsAnZ3N_b8mAb6_J6gmdzlSUGxT2CQq58_Rj28l0jqsZ_n5NfaUltmjvfvrALJ4VGJKIXAKpqyn-3rZMPhSDYg%23&tcc=1
+Navigated to http://localhost:3000/authenticated?login=e30=
+abstract-xhr.js:128 XHR finished loading: GET "http://localhost:3000/sockjs-node/info?t=1637422713966".
+AbstractXHRObject._start @ abstract-xhr.js:128
+(anonymous) @ abstract-xhr.js:21
+setTimeout (async)
+AbstractXHRObject @ abstract-xhr.js:20
+XHRLocalObject @ xhr-local.js:8
+InfoAjax @ info-ajax.js:19
+InfoReceiver._getReceiver @ info-receiver.js:36
+InfoReceiver.doXhr @ info-receiver.js:56
+(anonymous) @ info-receiver.js:25
+setTimeout (async)
+InfoReceiver @ info-receiver.js:24
+SockJS @ main.js:122
+(anonymous) @ webpackHotDevClient.js:140
+__webpack_require__ @ bootstrap 1d76d7691c86e7caa16e:555
+fn @ bootstrap 1d76d7691c86e7caa16e:86
+(anonymous) @ bootstrap 1d76d7691c86e7caa16e:578
+__webpack_require__ @ bootstrap 1d76d7691c86e7caa16e:555
+(anonymous) @ bootstrap 1d76d7691c86e7caa16e:578
+(anonymous) @ bootstrap 1d76d7691c86e7caa16e:578
