@@ -1,16 +1,21 @@
 # Notes
 ## Folder Structure
 **po**: This folder contains the page objects for this project
+
 **test**: This folder contains the bug report and associated files
+
 **webdrivers**: This folder contains the webdrivers for Chrome and Firefox browsers
 
 ## Other Files
 **localhost_tester.py**: The starter script for the automated test
+
 **env**: This file is used to store localized environment variables
 
 ## .env Settings
 **ACCOUNT_USER**: Change this to a test account name
+
 **ACCOUNT_PASSWORD**: Add the password here
+
 **FIREFOX_PROFILE**: This is the path to the firefox profile used to run the browser.
     To replace the value with the local path, copy its value up to "Profiles", press Win+R, 
     type %APPDATA%, paste the value and press Enter.
