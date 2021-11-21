@@ -42,7 +42,7 @@ class AuthorizePage(BasePage):
         self.testclass.assertTrue(self.logo.is_displayed())
 
         self.testclass.assertTrue(self.user_greeting.is_displayed())
-        self.testclass.assertIn("Hi", self.user_greeting)
+        self.testclass.assertIn(self.get_image_alt_text(), self.user_greeting)
 
         self.testclass.assertTrue(self.affirm_message.is_displayed())
         self.testclass.assertIn(
@@ -53,3 +53,6 @@ class AuthorizePage(BasePage):
 
     def perform_action(self):
         self.accept_button.click()
+
+    def get_image_alt_text(self):
+        return self.user_avatar.get_attribute("alt")
